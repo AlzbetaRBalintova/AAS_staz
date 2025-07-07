@@ -1,0 +1,15 @@
+Z dôvodu dodržania GDPR sú informácie skrátené a nerozpísané do detailov. 
+Konkrétnejšie a detailnejšie zapísané bug reporty je možné si pozrieť v projekte BugReportsOthersPages 
+https://github.com/AlzbetaRBalintova/BugReportOthersPages
+
+Bugy zistené počas projektu Správa bytových domov:
+
+1. Registrácia- chýbajúce informácie o success/error message 
+2. Podanie novej stažnosti - chýbajúce tlačidlo návrat
+3. Pridanie novej správy - nie je zadefinovaný maximálny počet znakov 
+4. Preklep v slove prístup (na stránke bolo priestup) a chýbajúce tlačidlo návrat
+5. V špecifikácii chýbala informácia čo sa má udiať po stlačení tlačidla odoslať. 
+6. Aplikácia Miro zobrazuje, žeby sa na stránke malo nachádzať tlačidlo zrušiť. V špecifikácii chýbajú informácie k tomuto tlačidlu. 
+7. Registrácia - chýba tlačidlo potvrdiť registráciu 
+8. Prihlásenie - chýba odkaz na obnovenie hesla 
+9. Tlačidlo uložiť údaje sa má nachádzať v spodnej časti formulára, zobrazuje sa ale vpravo hore
